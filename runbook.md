@@ -46,6 +46,4 @@ See [investigating issues](investigating-issues/) for details on how to debug li
 
 ---
 
-## Runbook Sections
 
-{{% children %}}
