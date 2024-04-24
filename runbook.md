@@ -8,7 +8,7 @@
 - Service Catalogue: [service-catalogue-link](#the-service-catalogue)
 - Team Location: remote across Canada and USA 
 - Product Owner: John Laban
-- Delivery Lead: Todd Osborne
+- Delivery Lead: Tom Kress
 - Group Email: order_management@opslevel.com
 
 ## What is shopping_cart?
