@@ -56,4 +56,4 @@ There are two easy ways to interact with the API, one is to use Insomnia (https:
 Visit [http://localhost:3000/api/v1/index.html](http://localhost:3000/api/v1/index.html)
 
 # How to run unit tests:
-- bin/rails test test/controllers # run all tests from specific directory
+- bin/rails test test/controllers # run all tests from specific directory.
