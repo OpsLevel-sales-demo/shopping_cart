@@ -57,4 +57,4 @@ Visit [http://localhost:3000/api/v1/index.html](http://localhost:3000/api/v1/ind
 
 # How to run unit tests:
 - bin/rails test test/controllers # run all tests from specific directory
-- additional
+- Tests are usually located in a tests/, spec/, or __tests__/ directory.
