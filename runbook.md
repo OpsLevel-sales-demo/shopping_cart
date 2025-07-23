@@ -27,7 +27,7 @@ Follow this decision flow in order to manage the triggered incident. Acknowledge
 
 **Trigger it immediately using the 'run a play' button on the PagerDuty Incident.**
 
-> Diagram of incident decision process was here - removed
+
 
 ## Useful Support Links
 
