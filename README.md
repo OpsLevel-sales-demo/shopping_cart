@@ -1,6 +1,8 @@
 # shopping-cart
 A shopping cart created using Ruby on Rails.
 
+**Owner:** Order Management Team
+
 # Design decisions
 
 The following design decisions were made:
